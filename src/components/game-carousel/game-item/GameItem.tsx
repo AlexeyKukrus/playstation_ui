@@ -1,5 +1,3 @@
 export default function GameItem() {
-    return (
-        <div>GameItem</div>
-    )
+  return <div>GameItem</div>;
 }
