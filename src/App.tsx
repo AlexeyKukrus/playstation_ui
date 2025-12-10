@@ -1,4 +1,4 @@
-import TopMenu from "./components/top-menu/TopMenu.tsx";
+import TopMenu from "./layout/top-menu/TopMenu.tsx";
 import GameCarousel from "./components/game-carousel/GameCarousel.tsx";
 import { useState } from "react";
 import type { TCategorySlug } from "./types/types.ts";
